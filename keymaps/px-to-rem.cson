@@ -8,5 +8,5 @@
 # For more detailed documentation see
 # https://atom.io/docs/latest/advanced/keymaps
 'atom-workspace':
-  'ctrl-shift-e': 'px-to-rem:convert'
+  'ctrl-shift-e': 'px-to-rem:convertEm'
   'cmd-shift-e': 'px-to-rem:convert'
